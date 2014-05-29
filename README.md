@@ -1,4 +1,8 @@
 seed
 ====
 
-Light node.js seed withj jquery, angular, bootstrap
+A seed with ready to use:
+
+-  Bootstrap
+-  Express
+-  Angular
