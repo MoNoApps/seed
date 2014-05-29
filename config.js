@@ -1,7 +1,7 @@
-var Match = {};
+var Config = {};
 
 Match.db = {
 	"URL" : "mongodb://admin:admin@localhost:270001/"
 };
 
-module.exports = Match;
+module.exports = Config;
