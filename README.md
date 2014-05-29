@@ -1,7 +1,7 @@
 seed
 ====
 
-A seed with ready to use:
+A seed ready to use:
 
 -  Bootstrap
 -  Express
